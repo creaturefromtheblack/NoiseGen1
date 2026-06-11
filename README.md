@@ -69,7 +69,7 @@ Each engine is implemented with its own DSP architecture rather than simple para
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NoiseGen1.git
+git clone https://github.com/creaturefromtheblack/NoiseGen1.git
 ```
 
 2. Open `NoiseGen1.ino` in Arduino IDE.
