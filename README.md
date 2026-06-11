@@ -1,4 +1,4 @@
-![NoiseGen1 Hardware](images/NoiseGen1.jpg)
+![NoiseGen1 Hardware](images/NoiseGen1.png)
 A generative noise synthesizer with an audio-input mangler for the
 [Electro-Smith Daisy Seed](https://electro-smith.com/products/daisy-seed) running on the
 [Synthux Academy Simple Fix](https://synthux.academy/simple) platform.
