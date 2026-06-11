@@ -3,12 +3,11 @@ A generative noise synthesizer with an audio-input mangler for the
 [Electro-Smith Daisy Seed](https://electro-smith.com/products/daisy-seed) running on the
 [Synthux Academy Simple Fix](https://synthux.academy/simple) platform.
 
-NoiseGen1 packs eleven noise machines into one box. Each patch is not a parameter
-variation of a shared engine but a genuinely different DSP topology, selected with the
-toggle switch: from a self-evolving cascaded-FM noise core to harsh noise walls,
-electric sparks, industrial grinders, shortwave static and cut-up collages. Any audio
-source plugged into the input is gated, boosted, destroyed and recombined with the
-internal generator.
+A generative noise synthesizer and audio destruction processor for the Electro-Smith Daisy Seed platform.
+
+NoiseGen1 combines 11 unique DSP noise engines into a single instrument. Each engine implements a different synthesis architecture, producing textures ranging from subtle crackles and drones to aggressive harsh noise walls, industrial grinding sounds, radio interference, metallic resonances, and chaotic digital artifacts.
+
+Designed for experimental music, sound design, industrial, noise, ambient, and electroacoustic performance.
 
 ## Patches
 
